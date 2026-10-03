@@ -1,0 +1,36 @@
+S01 L1 K4  pevných 2 volných 2 pravidel 1 | křivka [2, 1] | řešení 1/2 | hloubka 1 co kdyby 0
+S02 L1 C4  pevných 2 volných 2 pravidel 1 | křivka [2, 1] | řešení 1/2 | hloubka 1 co kdyby 0
+S03 L1 P4  pevných 2 volných 2 pravidel 1 | křivka [2, 1] | řešení 1/2 | hloubka 1 co kdyby 0
+S04 L1 Y4  pevných 2 volných 2 pravidel 1 | křivka [2, 1] | řešení 1/2 | hloubka 1 co kdyby 0
+S05 L2 T5  pevných 2 volných 3 pravidel 2 | křivka [3, 2, 1] | řešení 1/6 | hloubka 2 co kdyby 0
+S06 L2 C5  pevných 2 volných 3 pravidel 2 | křivka [3, 2, 1] | řešení 1/6 | hloubka 2 co kdyby 0
+S07 L2 P5  pevných 2 volných 3 pravidel 2 | křivka [3, 3, 1] | řešení 2/6 | hloubka 2 co kdyby 0
+S08 L2 B5  pevných 2 volných 3 pravidel 2 | křivka [3, 2, 1] | řešení 1/6 | hloubka 2 co kdyby 0
+S09 L2 H5  pevných 2 volných 3 pravidel 2 | křivka [3, 2, 1] | řešení 1/6 | hloubka 2 co kdyby 0
+S10 L2 T5  pevných 2 volných 3 pravidel 2 | křivka [3, 2, 1] | řešení 1/6 | hloubka 2 co kdyby 0
+S11 L3 KT  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S12 L3 TR  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S13 L3 C6  pevných 2 volných 4 pravidel 3 | křivka [4, 4, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S14 L3 LD  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S15 L3 HX  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S16 L3 HT  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S17 L4 G6  pevných 2 volných 4 pravidel 3 | křivka [4, 3, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S18 L4 BW  pevných 2 volných 4 pravidel 4 | křivka [4, 4, 2, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S19 L4 HX  pevných 2 volných 4 pravidel 3 | křivka [4, 4, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S20 L4 C6  pevných 2 volných 4 pravidel 3 | křivka [4, 2, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S21 L4 HT  pevných 2 volných 4 pravidel 3 | křivka [4, 2, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S22 L4 TR  pevných 2 volných 4 pravidel 3 | křivka [4, 2, 2, 1] | řešení 1/24 | hloubka 4 co kdyby 0
+S23 L5 HT  pevných 2 volných 4 pravidel 4 | křivka [4, 3, 2, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S24 L5 G6  pevných 2 volných 4 pravidel 4 | křivka [4, 3, 2, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S25 L5 LD  pevných 2 volných 4 pravidel 4 | křivka [4, 3, 3, 2, 1] | řešení 2/24 | hloubka 3 co kdyby 0
+S26 L5 TR  pevných 2 volných 4 pravidel 4 | křivka [4, 4, 2, 2, 1] | řešení 1/24 | hloubka 3 co kdyby 0
+S27 L6 BW  pevných 1 volných 5 pravidel 4 | křivka [5, 5, 4, 3, 1] | řešení 2/120 | hloubka None co kdyby 1
+S28 L6 HX  pevných 1 volných 5 pravidel 4 | křivka [5, 5, 3, 3, 1] | řešení 4/120 | hloubka 3 co kdyby 0
+S29 L6 KT  pevných 1 volných 5 pravidel 4 | křivka [5, 5, 3, 3, 1] | řešení 4/120 | hloubka 2 co kdyby 0
+S30 L6 C6  pevných 1 volných 5 pravidel 4 | křivka [5, 5, 4, 2, 1] | řešení 5/120 | hloubka 3 co kdyby 0
+S31 L7 G6  pevných 1 volných 5 pravidel 5 | křivka [5, 5, 5, 4, 4, 1] | řešení 3/120 | hloubka None co kdyby 3
+S32 L7 LD  pevných 1 volných 5 pravidel 5 | křivka [5, 5, 4, 3, 3, 1] | řešení 2/120 | hloubka 3 co kdyby 0
+S33 L7 TR  pevných 1 volných 5 pravidel 5 | křivka [5, 5, 5, 3, 3, 1] | řešení 4/120 | hloubka 3 co kdyby 0
+S34 L7 HT  pevných 1 volných 5 pravidel 5 | křivka [5, 5, 5, 3, 3, 1] | řešení 2/120 | hloubka 3 co kdyby 0
+S35 L8 BW  pevných 0 volných 6 pravidel 6 | křivka [6, 6, 6, 4, 4, 3, 1] | řešení 2/720 | hloubka None co kdyby 8
+S36 L8 HX  pevných 0 volných 6 pravidel 6 | křivka [6, 6, 6, 6, 3, 3, 1] | řešení 4/720 | hloubka 5 co kdyby 0
